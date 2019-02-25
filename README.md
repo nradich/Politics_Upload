@@ -1,8 +1,8 @@
-# etl-project
+# Politics Upload
 
 ## Project Description  
 
-For this assignment, we will be downloading all of the electronic files from the Federal Election Commission submitted by the Beto for Texas Senate campaign in 2018. Work was done using Python and dependencies: Pandas, SQLalchemy, and Flask.   
+For this project, we will be downloading all of the electronic files from the Federal Election Commission submitted by the Beto for Texas Senate campaign in 2018. Work was done using Python and dependencies: Pandas, SQLalchemy, and Flask.   
 
 Beto O’Rourke, the Democratic candidate for U.S. Senate in Texas in 2018 raised more money than any candidate for Senate in history — more than $70 million.    
 
